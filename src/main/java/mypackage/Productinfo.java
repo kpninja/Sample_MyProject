@@ -6,6 +6,7 @@ public class Productinfo {
 		// TODO Auto-generated method stub
        String name="Gagan";
        int num=100;
+       String city="NY";
 	}
 
 }
